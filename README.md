@@ -25,7 +25,7 @@
 <br>
 
 <h2>👨‍💻My Coding Journey</h2>
-⋆I'm a high school student stepping into the world of programming, driven by a passion for art and digital design. While I love creating visually stunning pieces, I'm eager to learn how to bring ideas to life by being able to build my projects from scratch. I believe that a strong creative vision can elevate any project, making it not just functional, but truly exceptional. As I develop my technical skills, I'm excited to combine them with my artistic background to create unique and impactful projects! 
+⋆I'm an university student stepping into the world of programming, driven by a passion for art and digital design. While I love creating visually stunning pieces, I'm eager to learn how to bring ideas to life by being able to build my projects from scratch. I believe that a strong creative vision can elevate any project, making it not just functional, but truly exceptional. As I develop my technical skills, I'm excited to combine them with my artistic background to create unique and impactful projects! 
 
 <hr>
 

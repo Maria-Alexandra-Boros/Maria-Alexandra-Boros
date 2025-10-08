@@ -1,6 +1,6 @@
 ## Hi there, I'm Maria-Alexandra!<img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="30px">
 
-⋆I'm a high school student at the beginning of my exciting journey into the world of programming. I'm passionate about learning new technologies and building cool projects. Right now, I'm exploring different programming languages, frameworks, and tools to develop my skills. Follow along as I grow and share my progress here!
+⋆I'm an university student at the beginning of my exciting journey into the world of programming, studying computer science at the National University of Science and Technology Politehnica Bucharest. I'm passionate about learning new technologies and building cool projects. Right now, I'm exploring different programming languages, frameworks, and tools to develop my skills. Follow along as I grow and share my progress here!
 <h2 align="center">Github Stats</h2>
   <br>
   <p align=center>

@@ -8,14 +8,11 @@
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Maria-Alexandra-Boros&theme=onedark" alt="zumrudu-anka" />
       </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Maria-Alexandra-Boros&theme=onedark" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria-Alexandra-Boros&theme=onedark" />
       </a>
     </div>
     <br>
@@ -30,5 +27,4 @@
 <hr>
 
 <div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=Maria-Alexandra-Boros&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 </div>

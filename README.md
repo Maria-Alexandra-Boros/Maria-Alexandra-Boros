@@ -5,12 +5,9 @@
   <br>
   <p align=center>
     <div align=center>
-      </a>
-      </a>
     </div>
     <br><br><br><br><br><br><br><br><br>
     <div align=center>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
       </a>
     </div>
     <br>
